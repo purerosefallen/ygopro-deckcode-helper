@@ -2,9 +2,9 @@
   "name": "ygopro-deckcode-helper",
   "version": "1.0.0",
   "description": "A helper for parsing deck codes",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "test": "server.js encode test.ydk"
+    "test": "index.js encode ./test.ydk"
   },
   "repository": {
     "type": "git",
